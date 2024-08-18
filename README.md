@@ -8,9 +8,9 @@ To access to the initial view of this assigment the route would be: `[http://Ser
 
 ## Database Schema
 
-### Database name: **Games**
+## Database name: **Games**
 
-## Entities
+### Entities
 
 ### Games
 
