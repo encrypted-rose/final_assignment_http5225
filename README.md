@@ -47,7 +47,7 @@ To access to the initial view of this assigment the route would be: `[http://Ser
 - **Update**: Update the information of a Game
     - Note: Due to Controllers/Routing issues with the **Publishers** it's not working correctly.
 
--**Delete**: Delete a specific Game.
+- **Delete**: Delete a specific Game.
     - Note: Game can get soft deleted, however when it comes to restoring or fulyl deleting Laravel is throwing an error stating there's not "enough arguments".
 
 ### Publishers
@@ -61,7 +61,7 @@ To access to the initial view of this assigment the route would be: `[http://Ser
 - **Update**: Update the information of a Game
    - Note: Not configured, due to *Read* error.
 
--**Delete**: Delete a specific Game.
+- **Delete**: Delete a specific Game.
     - Note: Not configured due to *Read* error.
 
 
