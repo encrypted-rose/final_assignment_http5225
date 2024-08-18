@@ -34,7 +34,6 @@ To access to the initial view of this assigment the route would be: `[http://Ser
 - A Game is published by a Publisher
 - A Publisher can be associated with many Games
 
-======================================================================================
 
 ## CRUD
 
@@ -65,7 +64,7 @@ To access to the initial view of this assigment the route would be: `[http://Ser
 -**Delete**: Delete a specific Game.
     - Note: Not configured due to *Read* error.
 
-======================================================================================
+
 
 ## Notes
 
